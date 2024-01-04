@@ -1,3 +1,1 @@
-Rust
-Emacs
-Arch
+Coding Rust in Emacs on Arch BTW
