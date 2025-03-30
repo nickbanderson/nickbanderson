@@ -1,1 +1,1 @@
-Coding Rust in Emacs on Arch (soon to be NixOS) BTW
+Coding Rust in Emacs on NixOS BTW
